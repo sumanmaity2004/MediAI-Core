@@ -62,7 +62,7 @@ CardioScan-AI/
 
 ```bash
 git clone https://github.com/sumanmaity2004/MediAI-Core
-cd MediAI-Core
+cd Heart Attack detector AIML
 ```
 
 ### 2️⃣ Install dependencies
