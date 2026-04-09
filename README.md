@@ -61,8 +61,8 @@ CardioScan-AI/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/your-username/your-repo-name.git](https://github.com/sumanmaity2004/MediAI-Core
+cd MediAI-Core
 ```
 
 ### 2️⃣ Install dependencies
